@@ -3,6 +3,8 @@ import java.io.*;
 import javax.sound.sampled.*;
 import java.util.*;
 
+//test comment new change
+
 public class PitchPerfect {
     //GET PIANO MAJOR SCALES: Decide what Piano Major Scale to use
     private static final String [] piano_CMajorNotes = {"C4", "D4", "E4", "F4", "G4", "A4", "B4", "C5"}; //
